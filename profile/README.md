@@ -9,7 +9,7 @@
   <p align="center">
     Hier findest du alle unsere offiziellen Templates
     <br />
-    <a href="https://discord.com/users/778745509384028201"><strong>Contact »</strong></a>
+    <a href="https://discord.com/users/216487432667791360"><strong>Contact »</strong></a>
     <br />
     <br />
     <a href="https://discord.gg/devsky">Main-Server</a>
