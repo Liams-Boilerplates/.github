@@ -1,2 +1,2 @@
 # .github
-DevSky Boilerplates für dein nächstes Projekt
+Liams' Boilerplates für dein nächstes Projekt
